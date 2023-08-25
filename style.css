@@ -336,18 +336,18 @@ hr {
     }
 
     .face {
-        width: 180px;
+        width: 150px;
         height: fit-content;
     }
     
     .degradation-textbox1 {
-        width: 180px;
+        width: 150px;
         border: 2px solid white;
         padding: 5px;
     }
     
     .degradation-textbox2 {
-        width: 180px;
+        width: 150px;
         border: 2px solid white;
         padding: 5px;
     }
